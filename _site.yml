@@ -1,6 +1,6 @@
-name: "MyLabJournal"
+name: "Salazar Project"
 navbar:
-  title: "MyLabJournal"
+  title: "Meus Projetos com R Notebook"
   left:
     - text: "Home"
       href: index.html
